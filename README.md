@@ -39,7 +39,7 @@ To run the Expense Tracker App locally:
 
 1. Clone this repository to your machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the app with Streamlit: `streamlit run app.py`.
+3. Run the app with Streamlit: `streamlit run main.py`.
 
 ## Technologies Used
 
